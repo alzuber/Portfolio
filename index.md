@@ -18,5 +18,3 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-<p style="font-size:11px">Page template forked from </p>
-
