@@ -1,14 +1,15 @@
 title: Ariana-Lea Zuber # your name (or website title) here
 <p align="center">
 logo: "/images/image.png?raw=true height=270px" # your photo (or logo) here
-</p>
-description: > # your text below (remove <br> elements if you don't need line breaks)
+
+description: # your text below (remove <br> elements if you don't need line breaks)
   Graduate student at the Faculty of Organization and Informatics in Varaždin, 
   majoring in Information and Software Engineering, with a goal of further 
   professional and personal development. 
   <br><br>
   Second description 
   <br><br>
+  </p>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
