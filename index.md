@@ -12,7 +12,7 @@
 </p>
 
 
-<video src="images/RPG_demo.mp4" controls preload></video>
+<video src="images/RPG_demo.mp4" width="720" height="300"controls preload></video>
 
 ## Unity
 
