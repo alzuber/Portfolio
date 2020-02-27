@@ -12,8 +12,7 @@
 </p>
 
 
-<video src="images/RPG_demo.mp4" width="320" height="200"></video>
-<iframe src="images/RPG_demo.mp4" width="320" height="200"></iframe>
+<video src="images/RPG_demo.mp4" controls preload></video>
 
 ## Unity
 
