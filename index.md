@@ -12,8 +12,8 @@
 </p>
 
 
-<video src="images/RPG_demo.mp4?raw=true" width="320" height="200"></video>
-<iframe src="images/RPG_demo.mp4?raw=true" width="320" height="200"></iframe>
+<video src="images/RPG_demo.mp4" width="320" height="200"></video>
+<iframe src="images/RPG_demo.mp4" width="320" height="200"></iframe>
 
 ## Unity
 
