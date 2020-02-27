@@ -11,7 +11,7 @@
   of Computer Games - Professional Developments 2019 Conference.
 </p>
 
-<video src="images/RpG_demo.mp4?raw=true" width="320" height="200" controls preload></video>
+<iframe src="images/RpG_demo.mp4?raw=true" width="320" height="200"></video>
 
 ## Unity
 
