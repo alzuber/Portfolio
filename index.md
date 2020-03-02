@@ -20,6 +20,7 @@ Mage character
 - takes no demage when attacked for demonstration purposes
 - has 2 abilities, healing spell and basic attack - fireball
 - save game option is implemented and turned on for this character
+
 Swordsman character
 - starts with 10 coins
 - Takes damage when attacked
@@ -48,7 +49,7 @@ Other mechanics
 <br>
 This project was created for the purposes of the Program Analysis and Development Course at the Faculty of Organization and Informatics. It was a team project created using the Scrum methodology. Some of the requests were to implement ballistics, joystick mechanics and character rotation through the touch screen as the framework was ment for mobile applications. The game demo was created using this framework.
 
-Character
+Player character
 - move
 - rotate
 - shoot
