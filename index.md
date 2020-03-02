@@ -18,7 +18,7 @@ Mage character
 - starts with 15 coins
 - depleted health and mana to demonstrate healing ability and healing or mana recovery over time
 - takes no demage when attacked for demonstration purposes
-- has 2 abilities, healing spell and basic attack - fireball
+- has two abilities, healing spell and basic attack - fireball
 - save game option is implemented and turned on for this character
 
 Swordsman character
