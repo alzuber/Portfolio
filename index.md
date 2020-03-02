@@ -12,7 +12,6 @@
 </p>
 <video width="450" height="275" src="images/RPG_demo.mp4" controls preload></video>
 <br>
-<p>
 This demo implements the basic mechanics of this type of game. To begin with, there are two classes of characters, the mage and the swordsman. Each starts the game with a few coins and with their health and mana depleted. Characters can move, jump, deal and take demage, attack or cast spells while moving, pick up loot and other objects or interact with the store. Enemies roam until they detect playing character that they then chase or attack. AI enemies are able to deal and take demage leaving loot once they are killed.
 
 Mage character
@@ -33,14 +32,13 @@ AI enemy
 - chase
 - take demage and die
 
-The rest
+Other mechanics
 - character select menu
 - characters spawn at asigned points
 - random loot
 - pickup items
 - inventory
 - shop
-</p>
 <br>
 
 ## Unity
