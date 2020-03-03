@@ -23,7 +23,7 @@ Mage character
 
 Swordsman character
 - starts with 10 coins
-- Takes damage when attacked
+- takes damage when attacked
 - only ability is basic attack with a sword
 - for demonstration of leveling system save game option was turned off
 
