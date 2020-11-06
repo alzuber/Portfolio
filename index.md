@@ -42,12 +42,18 @@ Other mechanics
 - shop
 <br>
 
+### [Multiplayer RPG game development](https://github.com/alzuber/RPG-Unreal-Engine-4-Multiplayer)
+<p> 
+  Master's thesis project that implements multiplayer functionality through Steam's Advanced Sessions Plugin. Demo game was created by converting already existing RPG game from singleplayer to multiplayer with peer-to-peer architecture.
+</p>
+<br>
+
 ## Unity
 
 ### [FPS Framework](https://github.com/alzuber/Android-FPS-Framework)
 <video width="450" height="275" src="images/FPS_demo.mp4" controls preload></video>
 <br>
-This project was created for the purposes of the Program Analysis and Development Course at the Faculty of Organization and Informatics. It was a team project created using the Scrum methodology. Some of the requests were to implement ballistics, joystick mechanics and character rotation through the touch screen as the framework was ment for mobile applications. The game demo was created using this framework.
+This project was created for the purposes of the Program Analysis and Development Course at the Faculty of Organization and Informatics. It was a team project created using the Scrum methodology and SOLID principles. Some of the requests were to implement ballistics, joystick mechanics and character rotation through the touch screen as the framework was ment for mobile applications. The game demo was created using this framework.
 
 Player character
 - move
@@ -72,3 +78,9 @@ AI enemy
 <br>
 The project is intended to represent the basic mechanics of Tower Defense type games in a single game level. When the game begins, the player can set up the towers along the predetermined path. There are five types of towers with upgrades to choose from. The first is machine gun wich shoots bullets at a faster rate, rocket shooter deals splash demage, laser wich is slow but powerful and the last two towers slow enemies down and rise the value of enemies in a given area. Game ends if enough enemies reach the end of the path.
 
+## Other projects
+
+### [Design Patterns](https://github.com/alzuber/Design_Patterns_Course_Project)
+<p> 
+  This project was created through three stages as assigned for the Design Pattern Course at the Faculty of Organization and Informatics. The goal was to recognize the need for specific design patterns in each stage, refactor existing code and implement new patterns. The problem that needed to be solved was given in a form of a story with functionality requirements.
+</p>
