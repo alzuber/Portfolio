@@ -66,8 +66,8 @@ AI enemy
 - chase
 - attack when the player comes close enough
 - take demage and die
-
 <br>
+
 ### [Tower defence game development](https://github.com/alzuber/Obrana-tornjevima)
 <p> 
   Published expert paper can be found in the 
