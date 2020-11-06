@@ -77,6 +77,7 @@ AI enemy
 <video width="450" height="275" src="images/TowerDefense_demo.mp4" controls preload></video>
 <br>
 The project is intended to represent the basic mechanics of Tower Defense type games in a single game level. When the game begins, the player can set up the towers along the predetermined path. There are five types of towers with upgrades to choose from. The first is machine gun wich shoots bullets at a faster rate, rocket shooter deals splash demage, laser wich is slow but powerful and the last two towers slow enemies down and rise the value of enemies in a given area. Game ends if enough enemies reach the end of the path.
+<br>
 
 ## Other projects
 
