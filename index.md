@@ -52,7 +52,7 @@ Other mechanics
 
 ### [FPS Framework](https://github.com/alzuber/Android-FPS-Framework)
 <video width="450" height="275" src="images/FPS_demo.mp4" controls preload></video>
-<br>
+
 This project was created for the purposes of the Program Analysis and Development Course at the Faculty of Organization and Informatics. It was a team project created using the Scrum methodology and SOLID principles. Some of the requests were to implement ballistics, joystick mechanics and character rotation through the touch screen as the framework was ment for mobile applications. The game demo was created using this framework.
 
 Player character
@@ -66,7 +66,7 @@ AI enemy
 - chase
 - attack when the player comes close enough
 - take demage and die
-<br>
+
 
 ### [Tower defence game development](https://github.com/alzuber/Obrana-tornjevima)
 <p> 
